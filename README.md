@@ -1,6 +1,3 @@
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=peppe_rossi&cover_image=false)](https://open.spotify.com/user/peppe_rossi)
 
 ### Follow me
 
