@@ -49,6 +49,10 @@ I'm Giuseppe and I'm a Computer Engineering student.
      <img width="36" height="36" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 ](https://en.wikipedia.org/wiki/Linux)
 [
+     <!-- Vim -->
+     <img width="36" height="36" alt="Vim" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
+](https://en.wikipedia.org/wiki/Vim_(text_editor))
+[
      <!-- Node.js -->
      <img width="36" height="36" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 ](https://en.wikipedia.org/wiki/Node.js)
